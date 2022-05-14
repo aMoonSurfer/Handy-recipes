@@ -1,4 +1,3 @@
 # Handy-recipes
 
-a project from the Odin project
-lets make this !!
+basic HTML project from : The Odin Project
